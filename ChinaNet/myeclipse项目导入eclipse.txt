@@ -1,0 +1,5 @@
+1、直接import导入，不是新建导入空项目，选择copy
+2、buildpath->add library->sever time->tomcat9.0
+3、properties ->project facets->添加java和dynamic web module
+4、把web root的东西复制到web content
+
